@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+label {
+  display: block;
+  padding: 2px;
+}
+
+button{
+  border-radius: 4px;
+}
+
+.error{
+  color: red;
+}
